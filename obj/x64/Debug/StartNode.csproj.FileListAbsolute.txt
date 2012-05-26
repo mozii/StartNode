@@ -1,0 +1,6 @@
+D:\VB Projects\StartNode\StartNode\bin\x64\Debug\StartNode.exe
+D:\VB Projects\StartNode\StartNode\bin\x64\Debug\StartNode.pdb
+D:\VB Projects\StartNode\StartNode\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\VB Projects\StartNode\StartNode\obj\x64\Debug\StartNode.exe
+D:\VB Projects\StartNode\StartNode\obj\x64\Debug\StartNode.pdb
+D:\VB Projects\StartNode\StartNode\bin\x64\Debug\config.xml

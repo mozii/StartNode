@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <mode>development</mode>
+  <nodepath>C:\Program Files (x86)\nodejs\node.exe</nodepath>
+  <apppath>D:\websites\nodedemo</apppath>
+  <appstart>app.js</appstart>
+</config>

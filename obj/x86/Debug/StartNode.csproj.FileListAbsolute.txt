@@ -1,0 +1,5 @@
+D:\VB Projects\StartNode\StartNode\bin\Debug\StartNode.exe
+D:\VB Projects\StartNode\StartNode\bin\Debug\StartNode.pdb
+D:\VB Projects\StartNode\StartNode\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB Projects\StartNode\StartNode\obj\x86\Debug\StartNode.exe
+D:\VB Projects\StartNode\StartNode\obj\x86\Debug\StartNode.pdb
